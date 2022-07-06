@@ -3,6 +3,7 @@
 # Website Links
 - https://www.pyrochemsource.com/
   - https://www.amazon.com/s?k=Pyro+Chem+Source
+- https://www.skylighter.com/collections/chemicals
 
 # Flash powder recipes
 
