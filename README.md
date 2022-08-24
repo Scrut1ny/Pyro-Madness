@@ -24,8 +24,8 @@
 | `Chemicals & %` | `Purchase Links` |
 |-|-|
 | Potassium Nitrate - 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
-| Charcoal - 13% |  |
-| Sulfur - 12% |  |
+| Charcoal - 13% | [Charcoal Air Float](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |
+| Sulfur - 12% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
 
 ### How to make
 - [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
