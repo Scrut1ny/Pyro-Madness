@@ -19,13 +19,13 @@
 - [Magnesium](https://www.sciencemadness.org/smwiki/index.php/Magnesium)
 - [Magnalium](https://www.sciencemadness.org/smwiki/index.php/Magnalium)
 
-### Gunpowder
+### Fast Black Powder / Gunpowder
 `Mix ingredients together to make flash powder. 8% of water can improve the gunpowder's burning.`
-| `Chemicals & %` | `Purchase Links` |
+| `Chemicals` | `Purchase Links` |
 |-|-|
-| Potassium Nitrate - 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
-| Charcoal - 13% | [Charcoal Air Float](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |
-| Sulfur - 12% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
+| Potassium Nitrate - 7.5g ~ 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
+| Charcoal - 1.5g ~ 15% | [Charcoal Air Float](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |
+| Sulfur - 1g ~ 10% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
 
 ### How to make
 - [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
