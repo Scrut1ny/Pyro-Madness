@@ -23,9 +23,17 @@
 `Mix ingredients together to make flash powder. 8% of water can improve the gunpowder's burning.`
 | `Chemicals` | `Purchase Links` |
 |-|-|
-| Potassium Nitrate - 7.5g ~ 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
-| Charcoal - 1.5g ~ 15% | [Charcoal Air Float](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |
-| Sulfur - 1g ~ 10% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
+| Potassium Nitrate - 7.5g / 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
+| Charcoal - 1.5g / 15% | [Charcoal Air Float](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |
+| Sulfur - 1g / 10% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
+
+### Powerful Flash Powder (KCLO4/AL)
+`Potassium persulfate with magnesium is an extremely powerful flash powder, even more so than permanganate mixtures. Amounts below one gram will explode violently unconfined as long as the magnesium can be called "powder". With very fine magnesium, as little as 5 mg is enough. Despite this, K2S2O8/Mg is not particularly brisant and does not give too sharp reports. It is also surprisingly insensitive. It's stability is unknown, so mixtures should not be stored.`
+| `Chemicals` | `Purchase Links` |
+|-|-|
+| Potassium Perchlorate - 7g / 70% | [Potassium Perchlorate](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) |
+| Mg/Al -325 mesh - 3g / 30% | [Mg/Al](https://www.pyrochemsource.com/MgAl-325-mesh_p_75.html) |
+| Sulfur - 1g / 10% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
 
 ### How to make
 - [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
