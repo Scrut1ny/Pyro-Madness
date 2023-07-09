@@ -7,6 +7,8 @@
 - [skylighter](https://www.skylighter.com/collections/chemicals)
 - [pyrochemsource](https://www.pyrochemsource.com/Chemicals-A-Z_c_11.html)
   - [amazon products](https://www.amazon.com/s?k=Pyro+Chem+Source)
+- [CannonFuse](https://cannonfuse.com/home.html)
+- [Hobby Chemical Supply](https://hobbychemicalsupply.com/shop/ols/products)
 
 ### Flash powder recipes
 - [Flash Powder](https://www.sciencemadness.org/smwiki/index.php/Flash_powder)
