@@ -43,6 +43,7 @@
 - 
 
 ### Misc. Websites
+- [thinklikeacop](https://www.thinklikeacop.org/)
 - [Explosives Guide / Tutorial PDF](http://thinklikeahorse.org/images3/explosives.pdf)
 - [Building Clearing / Tactical Raid PDF](http://thinklikeahorse.org/images3/building%20clearing%20raid.pdf)
 - [omniexplosives](http://www.omniexplosives.com/Swat.html)
