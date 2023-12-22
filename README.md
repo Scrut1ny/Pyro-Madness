@@ -1,8 +1,5 @@
 ![boom](https://user-images.githubusercontent.com/53458032/177469494-5257959b-1966-4b8c-a97a-995b935ba03d.jpg)
 
-### Disclaimer
-- Be mindful of the ATF. ;)
-
 ### Purchase Chemicals Links
 - [skylighter](https://www.skylighter.com/collections/chemicals)
 - [pyrochemsource](https://www.pyrochemsource.com/Chemicals-A-Z_c_11.html)
@@ -41,6 +38,9 @@
 ### How to make
 - [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
 - 
+
+### How to make Tannerite
+* Ammonium Nitrate 34-0-0
 
 ### Misc. Websites
 - [thinklikeacop](https://www.thinklikeacop.org/)
