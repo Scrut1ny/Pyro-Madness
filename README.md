@@ -43,6 +43,10 @@
 * Ammonium Nitrate (34-0-0)
 * Aluminum Powder
 
+### How to make Tannerite Bomb
+* Tannerite
+* Powerful Firecracker (M80)
+
 ### Misc. Websites
 - [thinklikeacop](https://www.thinklikeacop.org/)
 - [Explosives Guide / Tutorial PDF](http://thinklikeahorse.org/images3/explosives.pdf)
