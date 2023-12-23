@@ -40,7 +40,8 @@
 - 
 
 ### How to make Tannerite
-* Ammonium Nitrate 34-0-0
+* Ammonium Nitrate (34-0-0)
+* Aluminum Powder
 
 ### Misc. Websites
 - [thinklikeacop](https://www.thinklikeacop.org/)
