@@ -68,6 +68,16 @@
 | Charcoal | 5% |
 
 
+## Black Cat Mix
+| `Chemicals` | `%` |
+|-|-|
+| black powder (potassium chlorate, sulfur, and charcoal) | 40% |
+| flash powder (potassium chloride, potassium perchlorate, and ammonium nitrate) | 35% |
+| calcium carbide | 15% |
+| sugar or starch | 10% |
+| water | 10%  |
+
+
 ## Tannerite
 
 | `Chemicals` | `%` |
