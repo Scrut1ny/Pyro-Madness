@@ -72,8 +72,8 @@
 
 | `Chemicals` | `%` |
 |-|-|
-| Ammonium Nitrate (34-0-0) | ? |
-| Aluminum Powder | ? |
+| Ammonium nitrate (AN) (34-0-0) | 60% |
+| Titanium dioxide (TiO2) | 40% |
 
 
 ### Flash powder recipes
