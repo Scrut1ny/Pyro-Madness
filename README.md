@@ -55,7 +55,7 @@
 | `Chemicals` | `%` |
 |-|-|
 | Potassium Perchlorate | 70% |
-| Mg/Al -325 mesh | 30% |
+| Magnesium | 30% |
 | Sulfur | 10% |
 
 
@@ -65,7 +65,7 @@
 |-|-|
 | Potassium nitrate (KNO3) | 75% |
 | Pure Cane Sugar | 20% |
-| Charcoal Powder | 5% |
+| Charcoal | 5% |
 
 
 ## Tannerite
