@@ -1,11 +1,3 @@
-### Chemical Supplier Websites
-- [skylighter](https://www.skylighter.com/collections/chemicals)
-- [pyrochemsource](https://www.pyrochemsource.com/Chemicals-A-Z_c_11.html)
-  - [amazon products](https://www.amazon.com/s?k=Pyro+Chem+Source)
-- [CannonFuse](https://cannonfuse.com/home.html)
-- [Hobby Chemical Supply](https://hobbychemicalsupply.com/shop/ols/products)
-- [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=10pn&kpid=10pn)
-
 ## Chemical Information
 - [Potassium persulfate](https://www.sciencemadness.org/smwiki/index.php/Potassium_persulfate)
 - [Potassium chlorate](https://www.sciencemadness.org/smwiki/index.php/Potassium_chlorate)
@@ -24,6 +16,13 @@
 
 
 ## Chemical Direct Purchase Links
+
+- [skylighter](https://www.skylighter.com/collections/chemicals)
+- [pyrochemsource](https://www.pyrochemsource.com/Chemicals-A-Z_c_11.html)
+  - [amazon products](https://www.amazon.com/s?k=Pyro+Chem+Source)
+- [CannonFuse](https://cannonfuse.com/home.html)
+- [Hobby Chemical Supply](https://hobbychemicalsupply.com/shop/ols/products)
+- [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=10pn&kpid=10pn)
 
 | `Chemicals` | `Website Link` |
 |-|-|
