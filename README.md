@@ -14,6 +14,7 @@
   - Increases burning rate and speed up reaction.
 - [Sulfur](https://www.sciencemadness.org/smwiki/index.php/Sulfur)
   - Fuel and reducing agent.
+- [Sodium carbonate / Na2CO3](https://www.sciencemadness.org/smwiki/index.php/Sodium_carbonate)
 - [Magnesium / Mg](https://www.sciencemadness.org/smwiki/index.php/Magnesium)
 - [Magnalium](https://www.sciencemadness.org/smwiki/index.php/Magnalium)
 - [Charcoal Powder]()
@@ -21,8 +22,20 @@
 - [Pure Cane Sugar]()
   - Carbon and hydrogen atoms that fuel the reaction.
 
-### Flash powder recipes
-- [Flash Powder](https://www.sciencemadness.org/smwiki/index.php/Flash_powder)
+
+## Chemical Direct Purchase Links
+
+| `Chemicals` | `Website Link` |
+|-|-|
+| Potassium persulfate |  |
+| Potassium chlorate |  |
+| Potassium nitrate |  |
+| Sulfur |  |
+| Sodium carbonate | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
+| Magnesium |  |
+| Magnalium |  |
+| Charcoal Powder |  |
+| Pure Cane Sugar |  |
 
 
 ## Fast Black Powder (Gunpowder)
@@ -51,7 +64,7 @@
 
 | `Chemicals` | `%` |
 |-|-|
-| Potassium nitrate | 75% |
+| Potassium nitrate (KNO3) | 75% |
 | Pure Cane Sugar | 20% |
 | Charcoal Powder | 5% |
 
@@ -62,6 +75,10 @@
 |-|-|
 | Ammonium Nitrate (34-0-0) | ? |
 | Aluminum Powder | ? |
+
+
+### Flash powder recipes
+- [Flash Powder](https://www.sciencemadness.org/smwiki/index.php/Flash_powder)
 
 
 ## How to make
