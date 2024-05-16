@@ -26,11 +26,12 @@
 
 | `Chemicals` | `pyrochemsource` |  |
 |-|-|-|
-| Potassium persulfate |  |  |
-| Potassium chlorate (KClO3)| [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) |  |
-| Potassium nitrate | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |  |
+| Potassium Perchlorate (KClO4) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) |  |
+| Potassium Persulfate |  |  |
+| Potassium Chlorate (KClO3)| [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) |  |
+| Potassium Nitrate | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |  |
 | Sulfur | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |  |
-| Sodium carbonate |  | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
+| Sodium Carbonate |  | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
 | Magnesium |  |  |
 | Magnalium |  |  |
 | Charcoal | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |  |
