@@ -17,6 +17,7 @@
 
 ## Chemical Direct Purchase Links
 
+- [chemsavers](https://chemsavers.com/)
 - [skylighter](https://www.skylighter.com/collections/chemicals)
 - [pyrochemsource](https://www.pyrochemsource.com/Chemicals-A-Z_c_11.html)
   - [amazon products](https://www.amazon.com/s?k=Pyro+Chem+Source)
