@@ -17,7 +17,9 @@
 - [Magnalium](https://www.sciencemadness.org/smwiki/index.php/Magnalium)
 
 ## Fast Black Powder / Gunpowder
-`Mix ingredients together to make flash powder. 8% of water can improve the gunpowder's burning.`
+
+- ****Mix ingredients together to make flash powder. 8% of water can improve the gunpowder's burning.****
+
 | `Chemicals` | `Purchase Links` |
 |-|-|
 | Potassium Nitrate - 7.5g / 75% | [Potassium Nitrate](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |
@@ -25,7 +27,9 @@
 | Sulfur - 1g / 10% | [Sulfur Powder](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |
 
 ## Powerful Flash Powder (KCLO4/AL)
-***Potassium persulfate with magnesium is an extremely powerful flash powder, even more so than permanganate mixtures. Amounts below one gram will explode violently unconfined as long as the magnesium can be called "powder". With very fine magnesium, as little as 5 mg is enough. Despite this, K2S2O8/Mg is not particularly brisant and does not give too sharp reports. It is also surprisingly insensitive. It's stability is unknown, so mixtures should not be stored. Sulfur can be added for increased potential as report composition.***
+
+- ****Potassium persulfate with magnesium is an extremely powerful flash powder, even more so than permanganate mixtures. Amounts below one gram will explode violently unconfined as long as the magnesium can be called "powder". With very fine magnesium, as little as 5 mg is enough. Despite this, K2S2O8/Mg is not particularly brisant and does not give too sharp reports. It is also surprisingly insensitive. It's stability is unknown, so mixtures should not be stored. Sulfur can be added for increased potential as report composition.****
+
 | `Chemicals` | `Purchase Links` |
 |-|-|
 | Potassium Perchlorate - 7g / 70% | [Potassium Perchlorate](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) |
