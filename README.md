@@ -47,13 +47,13 @@
 | Sulfur | 10% |
 
 
-## "75/20/5" firecracker mix
+## "75/20/5" Firecracker Mix
 
 | `Chemicals` | `%` |
 |-|-|
-| Potassium nitrate | 70% |
-| Pure Cane Sugar | 30% |
-| Charcoal Powder | 10% |
+| Potassium nitrate | 75% |
+| Pure Cane Sugar | 20% |
+| Charcoal Powder | 5% |
 
 
 ## Tannerite
