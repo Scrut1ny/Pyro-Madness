@@ -45,9 +45,9 @@
 
 | `Chemicals` | `%` |
 |-|-|
-| Potassium Nitrate | 75% |
-| Charcoal | 15% |
-| Sulfur | 10% |
+| Potassium Nitrate (KNO3) | 75% |
+| Charcoal (Carbon) | 15% |
+| Sulfur (S) | 10% |
 
 
 ## Powerful Flash Powder (KCLO4/AL)
