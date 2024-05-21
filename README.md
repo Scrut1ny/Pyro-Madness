@@ -25,18 +25,18 @@
 - [Hobby Chemical Supply](https://hobbychemicalsupply.com/shop/ols/products)
 - [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=10pn&kpid=10pn)
 
-| `Chemicals` | `pyrochemsource` |  |
-|-|-|-|
-| Potassium Perchlorate (KClO4) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) |  |
-| Potassium Persulfate (K2S2O8) |  |  |
-| Potassium Chlorate (KClO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) |  |
-| Potassium Nitrate (KNO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |  |
-| Sulfur (S) | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |  |
-| Sodium Carbonate (Na2CO3) |  | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
-| Magnesium (Mg) |  |  |
-| Magnalium (Alloy of Magnesium and Aluminum) |  |  |
-| Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |  |
-| Pure Cane Sugar (Sucrose) |  |  |
+| `Chemicals` | `pyrochemsource` | `Key Purpose` |
+|-------------|-------------------|---------------|
+| Potassium Perchlorate (KClO4) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) | Used as an oxidizer to produce oxygen for combustion in fireworks compositions. |
+| Potassium Persulfate (K2S2O8) |  | Used as an oxidizing agent and sometimes in priming compositions. |
+| Potassium Chlorate (KClO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) | Used as an oxidizer and a component in some pyrotechnic compositions. |
+| Potassium Nitrate (KNO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) | Used as an oxidizer in many fireworks compositions. |
+| Sulfur (S) | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) | Used to lower the ignition temperature of the composition and produce colored flames. |
+| Sodium Carbonate (Na2CO3) | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) | Used as a flux to lower the melting point of metallic compounds in fireworks compositions. |
+| Magnesium (Mg) |  | Used to produce brilliant white light in fireworks displays. |
+| Magnalium (Alloy of Magnesium and Aluminum) |  | Used for its pyrotechnic properties, including bright white sparks. |
+| Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) | Used as a fuel and to produce heat and gases in fireworks compositions. |
+| Pure Cane Sugar (Sucrose) |  | Used as a fuel and to moderate the burn rate in fireworks compositions. |
 
 
 ## Fast Black Powder (Gunpowder)
