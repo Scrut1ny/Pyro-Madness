@@ -64,8 +64,8 @@
 | `Chemicals` | `%` |
 |-|-|
 | Potassium nitrate (KNO3) | 75% |
-| Pure Cane Sugar | 20% |
-| Charcoal | 5% |
+| Pure Cane Sugar (Sucrose) | 20% |
+| Charcoal (Carbon) | 5% |
 
 
 ## Black Cat Mix
