@@ -54,9 +54,9 @@
 
 | `Chemicals` | `%` |
 |-|-|
-| Potassium Persulfate | 70% |
-| Magnesium | 30% |
-| Sulfur | 10% |
+| Potassium Persulfate (K2S2O8) | 70% |
+| Magnesium (Mg) | 30% |
+| Sulfur (S) | 10% |
 
 
 ## "75/20/5" Firecracker Mix
