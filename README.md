@@ -28,15 +28,15 @@
 | `Chemicals` | `pyrochemsource` |  |
 |-|-|-|
 | Potassium Perchlorate (KClO4) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) |  |
-| Potassium Persulfate |  |  |
-| Potassium Chlorate (KClO3)| [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) |  |
-| Potassium Nitrate | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |  |
-| Sulfur | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |  |
-| Sodium Carbonate |  | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
-| Magnesium |  |  |
-| Magnalium |  |  |
-| Charcoal | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |  |
-| Pure Cane Sugar |  |  |
+| Potassium Persulfate (K2S2O8) |  |  |
+| Potassium Chlorate (KClO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) |  |
+| Potassium Nitrate (KNO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) |  |
+| Sulfur (S) | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) |  |
+| Sodium Carbonate (Na2CO3) |  | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) |
+| Magnesium (Mg) |  |  |
+| Magnalium (Alloy of Magnesium and Aluminum) |  |  |
+| Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) |  |
+| Pure Cane Sugar (Sucrose) |  |  |
 
 
 ## Fast Black Powder (Gunpowder)
