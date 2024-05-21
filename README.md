@@ -43,7 +43,7 @@
 
 - ****Mix ingredients together to make flash powder. 8% of water can improve the gunpowder's burning.****
 
-| `Chemicals` | `%` |
+| `Chemicals` | `% by weight` |
 |-|-|
 | Potassium Nitrate (KNO3) | 75% |
 | Charcoal (Carbon) | 15% |
@@ -52,7 +52,7 @@
 
 ## Powerful Flash Powder (KCLO4/AL)
 
-| `Chemicals` | `%` |
+| `Chemicals` | `% by weight` |
 |-|-|
 | Potassium Persulfate (K2S2O8) | 70% |
 | Magnesium (Mg) | 30% |
@@ -61,7 +61,7 @@
 
 ## "75/20/5" Firecracker Mix
 
-| `Chemicals` | `%` |
+| `Chemicals` | `% by weight` |
 |-|-|
 | Potassium nitrate (KNO3) | 75% |
 | Pure Cane Sugar (Sucrose) | 20% |
@@ -69,7 +69,7 @@
 
 
 ## Black Cat Mix
-| `Chemicals` | `%` |
+| `Chemicals` | `% by weight` |
 |-|-|
 | black powder (potassium chlorate, sulfur, and charcoal) | 40% |
 | flash powder (potassium chloride, potassium perchlorate, and ammonium nitrate) | 35% |
@@ -80,7 +80,7 @@
 
 ## Tannerite
 
-| `Chemicals` | `%` |
+| `Chemicals` | `% by weight` |
 |-|-|
 | Ammonium nitrate (AN) (34-0-0) | 60% |
 | Titanium dioxide (TiO2) | 40% |
