@@ -58,6 +58,8 @@
 | Magnesium (Mg) | 30% |
 | Sulfur (S) | 10% |
 
+- Rock Tumbler with led balls. (for sparks)
+- [Video Tutorial](https://youtu.be/w4Pzwni45Ac)
 
 ## "75/20/5" Firecracker Mix
 
