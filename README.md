@@ -30,7 +30,7 @@
 | Potassium Perchlorate (KClO4) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Perchlorate-wanticake_p_117.html) | Used as an oxidizer to produce oxygen for combustion in fireworks compositions. |
 | Potassium Persulfate (K2S2O8) |  | Used as an oxidizing agent and sometimes in priming compositions. |
 | Potassium Chlorate (KClO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Chlorate_p_14.html) | Used as an oxidizer and a component in some pyrotechnic compositions. |
-| Potassium Nitrate (KNO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) | Used as an oxidizer in many fireworks compositions. |
+| Potassium Nitrate (KNO3) | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Nitrate_p_57.html) or [Spectracide Stump Remover](https://www.walmart.com/ip/Spectracide-Stump-Remover-Granules-Herbicide-Destroys-Stumps-16-oz/16877793)| Used as an oxidizer in many fireworks compositions. |
 | Sulfur (S) | [pyrochemsource](https://www.pyrochemsource.com/Sulfur-Powder_p_16.html) | Used to lower the ignition temperature of the composition and produce colored flames. |
 | Sodium Carbonate (Na2CO3) | [dudadiesel](https://www.dudadiesel.com/choose_item.php?id=sc5f) | Used as a flux to lower the melting point of metallic compounds in fireworks compositions. |
 | Magnesium (Mg) |  | Used to produce brilliant white light in fireworks displays. |
