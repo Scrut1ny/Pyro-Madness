@@ -49,6 +49,12 @@
 | Charcoal (Carbon) | 15% |
 | Sulfur (S) | 10% |
 
+## Fast Black Powder (Gunpowder)
+
+| `Chemicals` | `% by weight` |
+|-|-|
+| Potassium Perchlorate (KClO4) | 70% |
+| German Dark Aluminum Powder (Al) | 30% |
 
 ## Powerful Flash Powder (KCLO4/AL)
 
