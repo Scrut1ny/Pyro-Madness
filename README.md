@@ -49,7 +49,7 @@
 | Charcoal (Carbon) | 15% |
 | Sulfur (S) | 10% |
 
-## Fast Black Powder (Gunpowder)
+## 70/30 Firecracker Mix
 
 | `Chemicals` | `% by weight` |
 |-|-|
