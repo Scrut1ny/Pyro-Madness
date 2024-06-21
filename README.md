@@ -36,7 +36,7 @@
 | Magnesium (Mg) |  | Used to produce brilliant white light in fireworks displays. |
 | Magnalium (Alloy of Magnesium and Aluminum) |  | Used for its pyrotechnic properties, including bright white sparks. |
 | Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) | Used as a fuel and to produce heat and gases in fireworks compositions. |
-| Pure Cane Sugar (Sucrose) |  | Used as a fuel and to moderate the burn rate in fireworks compositions. |
+| Pure Cane Granulated Sugar (Sucrose) |  | Used as a fuel and to moderate the burn rate in fireworks compositions. |
 
 
 ## Fast Black Powder (Gunpowder)
