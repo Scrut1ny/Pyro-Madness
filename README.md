@@ -39,6 +39,7 @@
 | Magnalium (Alloy of Magnesium and Aluminum) |  | Used for its pyrotechnic properties, including bright white sparks. |
 | Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) | Used as a fuel and to produce heat and gases in fireworks compositions. |
 | Pure Cane Granulated Sugar (Sucrose) |  | Used as a fuel and to moderate the burn rate in fireworks compositions. |
+| Bentonite Clay (fragrance-free Cat Litter) | [Walmart](https://www.walmart.com/ip/Kitty-Diggin-s-Fragrance-Free-Cat-Litter-7-lbs/21268937) |
 
 
 ## Fast Black Powder (Gunpowder)
@@ -94,6 +95,17 @@
 |-|-|
 | Ammonium nitrate (AN) (34-0-0) | 60% |
 | Titanium dioxide (TiO2) | 40% |
+
+
+## Sugar Rockets
+
+- [How To Make Sugar Rockets](https://youtu.be/12fR9neVnS8)
+
+| `Chemicals` | `% by weight` |
+|-|-|
+| Potassium Nitrate (KNO3) | 65% |
+| Pure Cane Sugar | 35% |
+| Bentonite Clay (fragrance-free Cat Litter) | A small amount, typically around 1-2%, is used as a binder or to reinforce the structural integrity of the rocket, but it is not part of the main propellant mixture. |
 
 
 ### Flash powder recipes
