@@ -112,8 +112,8 @@
 
 ### Potassium Perchlorate/Sodium Salicylate Whistle Mix:
 
-| `Chemicals` | `% by weight` |
-|-|-|
+| `Chemicals` | `% by weight` | `Links` |
+|-|-|-|
 | Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
 | Sodium Salicylate (NaC₇H₅O₃) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
 | Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
@@ -122,8 +122,8 @@
 
 ### Potassium Perchlorate/Potassium Benzoate Whistle Mix:
 
-| `Chemicals` | `% by weight` |
-|-|-|
+| `Chemicals` | `% by weight` | `Links` |
+|-|-|-|
 | Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
 | Potassium Benzoate (KC₇H₅O₂) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html) |
 | Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
@@ -132,8 +132,8 @@
 
 ### Potassium Perchlorate/Potassium Salicylate Whistle Mix:
 
-| `Chemicals` | `% by weight` |
-|-|-|
+| `Chemicals` | `% by weight` | `Links` |
+|-|-|-|
 | Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
 | Sodium Salicylate (C₇H₅NaO₃) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
 | Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
