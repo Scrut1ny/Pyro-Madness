@@ -108,6 +108,26 @@
 | Bentonite Clay (fragrance-free Cat Litter) | A small amount, typically around 1-2%, is used as a binder or to reinforce the structural integrity of the rocket, but it is not part of the main propellant mixture. |
 
 
+## Strongest and Loudest Whistle Rocket Fuel Recipe
+
+| `Chemicals` | `% by weight` |
+|-|-|
+| Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
+| Potassium Benzoate (KC₇H₅O₂) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html) |
+| Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
+| Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
+
+
+## Whistle Rocket Fuel
+
+| `Chemicals` | `% by weight` |
+|-|-|
+| Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
+| Sodium Salicylate (C₇H₅NaO₃) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
+| Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
+| Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
+
+
 ### Flash powder recipes
 - [Flash Powder](https://www.sciencemadness.org/smwiki/index.php/Flash_powder)
 
