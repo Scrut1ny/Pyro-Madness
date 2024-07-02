@@ -110,6 +110,8 @@
 
 # Whistle Rocket Fuel
 
+![Screenshot from 2024-06-21 00-20-44](https://github.com/Scrut1ny/IED/assets/53458032/ca251ba2-2a55-44de-9644-d7e949597d6b)
+
 ### Potassium Perchlorate/Sodium Salicylate Whistle Mix:
 
 | `Chemicals` | `% by weight` | `Links` |
