@@ -46,6 +46,7 @@
 | Charcoal (Carbon) | [pyrochemsource](https://www.pyrochemsource.com/Charcoal-Air-Float_p_17.html) | Used as a fuel and to produce heat and gases in fireworks compositions. |
 | Pure Cane Granulated Sugar (Sucrose) |  | Used as a fuel and to moderate the burn rate in fireworks compositions. |
 | Bentonite Clay (fragrance-free Cat Litter) | [Walmart](https://www.walmart.com/ip/Kitty-Diggin-s-Fragrance-Free-Cat-Litter-7-lbs/21268937) |
+| Acetone | [Walmart](https://www.walmart.com/ip/Rust-Oleum-Automotive-Acetone-248667-Quart/16652308) |
 
 
 ## Fast Black Powder (Gunpowder)
