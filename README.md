@@ -168,6 +168,55 @@
 | Diatomaceous Earth (SiO2) | 60-75% | This is the absorbent material, also known as kieselguhr. | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
 | Stabilizers | 1-5% | Common stabilizers include calcium carbonate (CaCO3) or sodium carbonate (Na2CO3). | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
 
+# Nitroglycerin Production Guide
+
+## Table of Contents
+
+<details>
+  <summary>Materials Needed</summary>
+
+  1. **Glycerin (C3H8O3)** - Can be sourced from pharmaceutical suppliers.
+  2. **Concentrated Sulfuric Acid (H2SO4)** - Laboratory-grade sulfuric acid is required.
+  3. **Concentrated Nitric Acid (HNO3)** - Laboratory-grade nitric acid is required.
+  4. **Ice Bath** - To maintain a low temperature during the reaction.
+  5. **Separation Funnel** - For careful mixing of acids.
+  6. **Beaker and Stirring Rod** - For mixing and reacting the glycerin.
+  7. **Protective Equipment** - Gloves, goggles, lab coat, and fume hood are essential.
+
+</details>
+
+<details>
+  <summary>General Procedure</summary>
+
+  ### Preparation of Acid Mixture
+  - **Safety First**: Work under a fume hood with full protective gear.
+  - **Mixing Acids**: In a separation funnel, carefully mix concentrated sulfuric acid and concentrated nitric acid in a 1:1 ratio. This is the nitrating mixture.
+  - **Cooling**: Place the separation funnel in an ice bath to keep the temperature low (below 25°C, preferably around 10-15°C).
+
+  ### Addition of Glycerin
+  - **Slow Addition**: Slowly add glycerin dropwise to the cooled nitrating mixture while continuously stirring.
+  - **Temperature Control**: Maintain the reaction temperature below 25°C. Use an ice bath to control exothermic reaction heat.
+
+  ### Reaction Monitoring
+  - **Stirring**: Continue stirring and adding glycerin slowly to prevent rapid temperature rise.
+  - **Observation**: Look for any signs of excessive heat or instability. If the mixture becomes too hot, stop adding glycerin and allow it to cool.
+
+  ### Separation
+  - **Phase Separation**: After all the glycerin has been added, allow the mixture to settle. Nitroglycerin, being denser, will form a separate layer at the bottom.
+  - **Extraction**: Carefully separate the nitroglycerin layer using a separation funnel.
+
+  ### Washing
+  - **Neutralization**: Wash the nitroglycerin with a sodium bicarbonate (NaHCO3) solution to neutralize any remaining acids.
+  - **Water Wash**: Further wash with distilled water to remove any remaining impurities.
+
+  ### Storage
+  - **Safe Storage**: Store the nitroglycerin in small quantities in a cool, dark place in a shock-absorbent container.
+  - **Labeling**: Clearly label the container and follow all regulatory guidelines for storage and handling.
+
+</details>
+
+</details>
+
 
 ## Misc. Websites
 - [thinklikeacop](https://www.thinklikeacop.org/)
