@@ -75,20 +75,20 @@
 | Charcoal | 2% |
 
 
-## Classic 70/30 Composition
+## 70/30 Flash Powder Composition
 
 | `Chemicals` | `% by weight` |
 |-|-|
 | Potassium Perchlorate (KClO4) | 70% |
-| German Dark Aluminum Powder (Al) | 30% |
+| Magnalium (Mg/Al) | 30% |
 
 
-## Powerful Flash Powder (KCLO4/AL)
+## 70/30/ Flash Powder Composition
 
 | `Chemicals` | `% by weight` |
 |-|-|
-| Potassium Perchlorate (KClO4) | 70% |
-| Magnesium (Mg) | 30% |
+| Potassium Perchlorate (KClO4) | 60% |
+| Magnalium (Mg/Al) | 30% |
 | Sulfur (S) | 10% |
 
 
