@@ -97,6 +97,7 @@
 ## Sugar Rockets
 
 - [How To Make Sugar Rockets](https://youtu.be/12fR9neVnS8)
+- [How To Make Sugar Rockets (Powder Fuel)](https://youtu.be/c-rsH4FObZQ)
 
 | `Chemicals` | `% by weight` |
 |-|-|
