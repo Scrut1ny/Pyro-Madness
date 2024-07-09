@@ -148,9 +148,6 @@
 - [Flash Powder](https://www.sciencemadness.org/smwiki/index.php/Flash_powder)
 
 
-## How to make
-- [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
-
 # Explosives
 
 ## Tannerite
