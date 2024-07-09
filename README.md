@@ -71,8 +71,8 @@
 | Magnalium (Mg/Al) | 20% |
 | Potassium Nitrate (KNO3) | 10% |
 | Sulfur (S) | 5% |
-| Dextrin | 3% (as a binder) |
-| Charcoal | 2% |
+| Dextrin (C6H10O5) | 3% (as a binder) |
+| Charcoal (C) | 2% |
 
 
 ## Flash Powder Composition
@@ -90,14 +90,6 @@
 | Potassium Perchlorate (KClO4) | 60% |
 | Magnalium (Mg/Al) | 30% |
 | Sulfur (S) | 10% |
-
-
-## Tannerite
-
-| `Chemicals` | `% by weight` |
-|-|-|
-| Ammonium nitrate (AN) (34-0-0) | 60% |
-| Titanium dioxide (TiO2) | 40% |
 
 
 ## Sugar Rockets
@@ -157,6 +149,24 @@
 
 ## How to make
 - [How to Make an M-80](https://chemicalrecipes.blogspot.com/2010/05/how-to-make-m-80.html?m=1)
+
+# Explosives
+
+## Tannerite
+
+| `Chemicals` | `% by weight` |
+|-|-|
+| Ammonium nitrate (AN) (34-0-0) | 60% |
+| Titanium dioxide (TiO2) | 40% |
+
+
+## Dynamite
+
+| `Chemicals` | `% by weight` | Desc. | Links |
+|-|-|
+| Nitroglycerin (C3H5N3O9) | 25-35% | Primary explosive ingredient providing the explosive force. | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
+| Diatomaceous Earth (SiO2) | 60-75% | This is the absorbent material, also known as kieselguhr. | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
+| Stabilizers | 1-5% | Common stabilizers include calcium carbonate (CaCO3) or sodium carbonate (Na2CO3). | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
 
 
 ## Misc. Websites
