@@ -168,9 +168,8 @@
 | Diatomaceous Earth (SiO2) | 60-75% | This is the absorbent material, also known as kieselguhr. | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
 | Stabilizers | 1-5% | Common stabilizers include calcium carbonate (CaCO3) or sodium carbonate (Na2CO3). | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
 
-# Nitroglycerin Production Guide
-
-## Table of Contents
+<details>
+<summary>Nitroglycerin Production Guide</summary>
 
 <details>
   <summary>Materials Needed</summary>
@@ -214,7 +213,6 @@
   - **Labeling**: Clearly label the container and follow all regulatory guidelines for storage and handling.
 
 </details>
-
 </details>
 
 
