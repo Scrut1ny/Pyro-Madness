@@ -75,7 +75,7 @@
 | Charcoal | 2% |
 
 
-## 70/30 Flash Powder Composition
+## Flash Powder Composition
 
 | `Chemicals` | `% by weight` |
 |-|-|
@@ -83,7 +83,7 @@
 | Magnalium (Mg/Al) | 30% |
 
 
-## 70/30/ Flash Powder Composition
+## Flash Powder Composition
 
 | `Chemicals` | `% by weight` |
 |-|-|
