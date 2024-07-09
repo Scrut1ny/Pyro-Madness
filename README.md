@@ -66,6 +66,7 @@
 ## *Supernova* Composition
 
 | `Chemicals` | `% by weight` |
+|-|-|
 | Potassium Perchlorate (KClO4) | 60% |
 | Magnalium (Mg/Al) | 20% |
 | Potassium Nitrate (KNO3) | 10% |
