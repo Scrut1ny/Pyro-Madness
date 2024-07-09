@@ -63,7 +63,18 @@
 - [Video Tutorial](https://youtu.be/w4Pzwni45Ac)
 
 
-## 70/30 Firecracker Mix
+## *Supernova* Composition
+
+| `Chemicals` | `% by weight` |
+| Potassium Perchlorate (KClO4) | 60% |
+| Magnalium (Mg/Al) | 20%
+| Potassium Nitrate (KNO3) | 10% |
+| Sulfur (S) | 5% |
+| Dextrin | 3% (as a binder) |
+| Charcoal | 2% |
+
+
+## Classic 70/30 Composition
 
 | `Chemicals` | `% by weight` |
 |-|-|
@@ -75,28 +86,9 @@
 
 | `Chemicals` | `% by weight` |
 |-|-|
-| Potassium Persulfate (K2S2O8) | 70% |
+| Potassium Perchlorate (KClO4) | 70% |
 | Magnesium (Mg) | 30% |
 | Sulfur (S) | 10% |
-
-
-## "75/20/5" Firecracker Mix
-
-| `Chemicals` | `% by weight` |
-|-|-|
-| Potassium nitrate (KNO3) | 75% |
-| Pure Cane Sugar (Sucrose) | 20% |
-| Charcoal (Carbon) | 5% |
-
-
-## Black Cat Mix
-| `Chemicals` | `% by weight` |
-|-|-|
-| black powder (potassium chlorate, sulfur, and charcoal) | 40% |
-| flash powder (potassium chloride, potassium perchlorate, and ammonium nitrate) | 35% |
-| calcium carbide | 15% |
-| sugar or starch | 10% |
-| water | 10%  |
 
 
 ## Tannerite
