@@ -138,7 +138,7 @@
 | `Chemicals` | `% by weight` | `Links` |
 |-|-|-|
 | Potassium Perchlorate (KClO₄) | 70% | [pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
-| Sodium Salicylate (C₇H₅NaO₃) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
+| Potassium Salicylate (C₇H₅NaO₃) | 28% | [pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
 | Red Iron Oxide (Fe₂O₃) | 1% | [pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
 | Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
 
