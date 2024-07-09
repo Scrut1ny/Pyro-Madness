@@ -67,7 +67,7 @@
 
 | `Chemicals` | `% by weight` |
 | Potassium Perchlorate (KClO4) | 60% |
-| Magnalium (Mg/Al) | 20%
+| Magnalium (Mg/Al) | 20% |
 | Potassium Nitrate (KNO3) | 10% |
 | Sulfur (S) | 5% |
 | Dextrin | 3% (as a binder) |
