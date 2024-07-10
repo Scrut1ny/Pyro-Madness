@@ -167,7 +167,7 @@
 |-|-|-|-|
 | Nitroglycerin (C3H5N3O9) | 25-35% | Primary explosive ingredient providing the explosive force. | [Walmart](https://www.walmart.com/ip/Glycerin-Vegetable-16-fl-oz-White-Plastic-Jug-w-Cap-GreenHealth/403288435) |
 | Diatomaceous Earth (SiO2) | 60-75% | This is the absorbent material, also known as kieselguhr. | [Walmart](https://www.walmart.com/ip/PF-Harris-Products-Group-Diatomaceous-Earth-Food-Grade-Natural-4-lb/755106572) |
-| Stabilizers | 1-5% | Common stabilizers include calcium carbonate (CaCO3) or sodium carbonate (Na2CO3). | [Walmart](https://www.walmart.com/ip/Glycerin-Vegetable-16-fl-oz-White-Plastic-Jug-w-Cap-GreenHealth/403288435) |
+| Stabilizers | 1-5% | Common stabilizers include calcium carbonate (CaCO3) or sodium carbonate (Na2CO3). | [Walmart](https://www.walmart.com/ip/1-lb-Food-Grade-97-Calcium-Carbonate-from-Ground-Limestone/527645870) |
 
 <details>
 <summary>Nitroglycerin Production Guide</summary>
