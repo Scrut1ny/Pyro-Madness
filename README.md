@@ -175,13 +175,18 @@
 <details>
   <summary>Materials Needed</summary>
 
-  1. **Glycerin (C3H8O3)** - Can be sourced from pharmaceutical suppliers.
-  2. **Concentrated Sulfuric Acid (H2SO4)** - Laboratory-grade sulfuric acid is required.
-  3. **Concentrated Nitric Acid (HNO3)** - Laboratory-grade nitric acid is required.
+  - [How I made 100% PURE NITROGLYCERIN](https://www.youtube.com/watch?v=1lvZNK9KyK8)
+  - [Making Nitroglycerin](https://www.youtube.com/watch?v=mQIOZEEt9vI)
+  - [Making nitroglycerin](https://www.youtube.com/watch?v=i_2I3DQD56M)
+  - [Making Nitroglycerin](https://www.youtube.com/watch?v=g3oVp8HWr3I)
+
+  1. **[Glycerin (C3H8O3)](https://www.laballey.com/products/glycerin-lab-grade)** - Can be sourced from pharmaceutical suppliers.
+  2. **[Concentrated Sulfuric Acid (H2SO4)](https://www.laballey.com/products/sulfuric-acid-acs-grade)** - Laboratory-grade sulfuric acid is required.
+  3. **[Concentrated Nitric Acid (HNO3)](https://www.laballey.com/products/nitric-acid-67-percent-solution-lab-grade)** - Laboratory-grade nitric acid is required.
   4. **Ice Bath** - To maintain a low temperature during the reaction.
-  5. **Separation Funnel** - For careful mixing of acids.
-  6. **Beaker and Stirring Rod** - For mixing and reacting the glycerin.
-  7. **Protective Equipment** - Gloves, goggles, lab coat, and fume hood are essential.
+  5. **[Separation Funnel](https://www.amazon.com/dp/B0CCYM1Y2H)** - For careful mixing of acids.
+  6. **[Beaker and Stirring Rod](https://www.amazon.com/dp/B08VN7S9N7)** - For mixing and reacting the glycerin.
+  7. **Protective Equipment** - [Gloves](https://www.amazon.com/dp/B0C9SBFGZR), [goggles](https://www.amazon.com/dp/B07VF3C2CW), [lab coat](https://www.amazon.com/dp/B07D8G82G8), and fume hood are essential.
 
 </details>
 
